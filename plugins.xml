@@ -3,7 +3,7 @@
 
   <pyqgis_plugin name="Croquis de Manzana" version="1.0">
     <description>Genera croquis de manzanas de la DVMOA.</description>
-    <version>1.0</version>
+    <version>1.1</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>DVMOA</author_name>
     <file_name>croquis_plugin.zip</file_name>
@@ -39,7 +39,7 @@
 
   <pyqgis_plugin name="Editar Etiquetas DVMOA" version="1.0">
     <description>Edición rápida de etiquetas de calles y ejes.</description>
-    <version>1.0</version>
+    <version>1.1</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>DVMOA</author_name>
     <file_name>editar_etiquetas_plugin.zip</file_name>
