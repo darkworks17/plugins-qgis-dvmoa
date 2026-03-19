@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<plugins>
+  <pyqgis_plugin name="Herramientas DVMOA" version="1.1">
+    <description>Plugin personalizado para croquis y edición de etiquetas de la DVMOA.</description>
+    <version>1.1</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <homepage>https://github.com/TU_USUARIO/plugins-qgis-dvmoa</homepage>
+    <file_name>dvmoa_plugin.zip</file_name>
+    <author_name>DVMOA</author_name>
+    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/dvmoa_plugin.zip</download_url>
+  </pyqgis_plugin>
+</plugins>
