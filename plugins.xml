@@ -75,7 +75,7 @@
 
   <pyqgis_plugin name="Visor General" version="1.0">
     <description>Visor general de capas.</description>
-    <version>1.0</version>
+    <version>1.1</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>DVMOA</author_name>
     <file_name>visor_plugin.zip</file_name>
