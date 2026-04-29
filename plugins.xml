@@ -1,85 +1,80 @@
-<?xml version="1.0"?>
+<?xml version = "1.0"?>
 <plugins>
-
-  <pyqgis_plugin name="Croquis de Manzana" version="2.2">
-    <description>Genera croquis de manzanas de la DVMOA.</description>
-    <version>2.2</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>croquis_plugin.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/croquis_plugin.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Croquis de Predio" version="1.0">
-    <description>Genera croquis individuales de predios.</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>croquis_predio_plugin.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/croquis_predio_plugin.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Visor 3D DVMOA" version="1.2">
-    <description>Herramienta para visualización en 3D.</description>
-    <version>1.2</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>dvmoa_3d.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/dvmoa_3d.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Earth DVMOA" version="1.0">
-    <description>Conexión con vistas de Earth.</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>earth_dvmoa.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/earth_dvmoa.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Editar Etiquetas DVMOA" version="1.0">
-    <description>Edición rápida de etiquetas de calles y ejes.</description>
-    <version>1.1</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>editar_etiquetas_plugin.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/editar_etiquetas_plugin.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Imagen Aérea DVMOA" version="1.0">
-    <description>Carga de imágenes aéreas.</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>imagen_aerea_plugin.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/imagen_aerea_plugin.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Importar Predios" version="1.0">
-    <description>Herramienta para importar geometría de predios.</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>importar_predios.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/importar_predios.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Respaldo DVMOA" version="1.0">
-    <description>Herramienta de copias de seguridad.</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>respaldo_dvmoa.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/respaldo_dvmoa.zip</download_url>
-  </pyqgis_plugin>
-
-  <pyqgis_plugin name="Visor General" version="1.0">
-    <description>Visor general de capas.</description>
-    <version>1.1</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <author_name>DVMOA</author_name>
-    <file_name>visor_plugin.zip</file_name>
-    <download_url>https://darkworks17.github.io/plugins-qgis-dvmoa/visor_plugin.zip</download_url>
-  </pyqgis_plugin>
-
+    <pyqgis_plugin name="Croquis Plugin DVMOA" version="2.3">
+        <description>Herramienta Croquis Plugin para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/croquis_plugin.zip</download_url>
+        <file_name>croquis_plugin.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Croquis Predio Plugin DVMOA" version="2.3">
+        <description>Herramienta Croquis Predio Plugin para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/croquis_predio_plugin.zip</download_url>
+        <file_name>croquis_predio_plugin.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Dvmoa 3D DVMOA" version="2.3">
+        <description>Herramienta Dvmoa 3D para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/dvmoa_3d.zip</download_url>
+        <file_name>dvmoa_3d.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Earth Dvmoa DVMOA" version="2.3">
+        <description>Herramienta Earth Dvmoa para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/earth_dvmoa.zip</download_url>
+        <file_name>earth_dvmoa.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Editar Etiquetas Plugin DVMOA" version="2.3">
+        <description>Herramienta Editar Etiquetas Plugin para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/editar_etiquetas_plugin.zip</download_url>
+        <file_name>editar_etiquetas_plugin.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Imagen Aerea Plugin DVMOA" version="2.3">
+        <description>Herramienta Imagen Aerea Plugin para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/imagen_aerea_plugin.zip</download_url>
+        <file_name>imagen_aerea_plugin.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Importar Predios DVMOA" version="2.3">
+        <description>Herramienta Importar Predios para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/importar_predios.zip</download_url>
+        <file_name>importar_predios.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Layout Dvmoa DVMOA" version="2.3">
+        <description>Herramienta Layout Dvmoa para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/Layout_DVMOA.zip</download_url>
+        <file_name>Layout_DVMOA.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Respaldo Dvmoa DVMOA" version="2.3">
+        <description>Herramienta Respaldo Dvmoa para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/respaldo_dvmoa.zip</download_url>
+        <file_name>respaldo_dvmoa.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Revision Dvmoa DVMOA" version="2.3">
+        <description>Herramienta Revision Dvmoa para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/Revision_DVMOA.zip</download_url>
+        <file_name>Revision_DVMOA.zip</file_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Visor Plugin DVMOA" version="2.3">
+        <description>Herramienta Visor Plugin para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/visor_plugin.zip</download_url>
+        <file_name>visor_plugin.zip</file_name>
+    </pyqgis_plugin>
 </plugins>
