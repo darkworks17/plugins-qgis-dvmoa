@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    plugins>
+    <pyqgis_plugin name="Join Dvmoa DVMOA" version="2.3">
+        <description>Herramienta Join Dvmoa para DVMOA.</description>
+        <version>2.3</version>
+        <author_name>DVMOA</author_name>
+        <download_url>https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/Join_DVMOA.zip</download_url>
+        <file_name>Join_DVMOA.zip</file_name>
+    </pyqgis_plugin>
     <pyqgis_plugin name="Croquis Plugin DVMOA" version="2.3">
         <description>Herramienta Croquis Plugin para DVMOA.</description>
         <version>2.3</version>
